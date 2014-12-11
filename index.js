@@ -1,4 +1,5 @@
+!function() {
 
+	module.exports = require('./lib/DiscoveryRequest');
 
-
-	module.exports = require('./lib/DiscoveryMessage');
+}();
